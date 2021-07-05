@@ -2,35 +2,6 @@
   "movies": {
     "movie": [
       {
-        "Title": "...ET POUR QUELQUES DOLLARS DE PLUS",
-        "OriginalTitle": "Per qualche dollaro in più",
-        "Plot": "« L&apos;indien », bandit cruel et fou, s&apos;est évadé de prison. Il se prépare à attaquer la banque d&apos;El Paso, la mieux gardée de tout l&apos;Ouest, avec une quinzaine d&apos;autres malfaiteurs. Le « Manchot » et le Colonel Douglas Mortimer, deux chasseurs de primes concurrents, décident, après une confrontation tendue, de faire finalement équipe pour arrêter les bandits. Mais leurs motivations ne sont pas forcément les mêmes…",
-        "PublicationDate": 1965,
-        "Duration": 132,
-        "VODPlateforme": "carlottavod.com",
-        "ID": "http://carlottavod.com///et-pour-quelques-dollars-de-plus",
-        "URL": "https://lecinemaavecungranda.files.wordpress.com/2017/06/et-pour-quelques-dollars-de-plus.jpg",
-        "casts": {
-          "cast": [
-            "Clint EASTWOOD",
-            "Lee VAN CLEEF",
-            "Gian MARIA VOLONTÈ",
-            "Mara KRUPP",
-            "Luigi PISTILLI",
-            "Klaus KINSKI"
-          ]
-        },
-        "directors": {
-          "director": "Sergio LEONE"
-        },
-        "production-countries": {
-          "production-country": "it"
-        },
-        "categories": {
-          "category": "Western"
-        }
-      },
-      {
         "Title": "1 Chance 2 Dance",
         "OriginalTitle": "Un seul but : être la meilleure danseuse !",
         "Plot": "Gaby, une jeune fille de 17 ans, quitte Los Angeles en milieu d&amp;apos;année scolaire pour partir vivre avec sa famille dans une petite ville de la côte Est des Etats-Unis. Encouragée par ses deux nouvelles amies, elle intègre secrètement le concours 1 Chance 2 Dance. Entre rivalités et histoire d&amp;apos;amour, elle fera tout pour réaliser son rêve de devenir danseuse.",
@@ -169,21 +140,7 @@
           "category": ["Loisirs", "Pêche", "Coup"]
         }
       },
-      {
-        "Title": "100 % Bilis",
-        "OriginalTitle": "Par Bernard Bilis",
-        "Plot": "A travers ce programme, retrouvez Bernard Bilis qui nous livre 9 tours personnels pour la plupart inédits!\n\nDe quoi ravir tous les magiciens jusqu&amp;apos;à l&amp;apos;expert.\n\nAu sommaire :\n- Permutation As-Roi.\n- La carte Générale.\n- Countdown triumph.\n- Impossible donne du milieu.\n- Impression à la demande.\n- Sandwich décalé.\n- Cartes sandwich transposition.\n- Watch, watch, My watch.\n- La carte fofolle.",
-        "PublicationDate": 2007,
-        "Duration": 90,
-        "ImageQuality": ["1500 Kbps", "750 Kbps", "4000 Kbps"],
-        "Languages": "fr",
-        "VODPlateforme": "imineo.com",
-        "URL": "http://www.imineo.com/loisirs/magie/100-bilis-video-5953.htm",
-        "URLPhoto": "http://movie-medias.imineo.com/movie_imgs/large/100-bilis-vod.jpg",
-        "categories": {
-          "category": ["Loisirs", "Magie"]
-        }
-      },
+
       {
         "Title": "100 % Bilis 2",
         "OriginalTitle": "7 tours de Bernard Bilis.",
